@@ -26,3 +26,7 @@ This is a reading list for deep graph learning system.
 - [Book](./resources/book.md)
 - [Course](./resources/blog.md)
 - [Blog](./resources/course.md)
+
+## Maintainer
+
+- 补充自己的信息
