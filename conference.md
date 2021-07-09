@@ -1,8 +1,8 @@
-#conference
+# conference
 
 
-##Conference
+## Conference
 
-##Journals
+## Journals
 
-##Workshop
+## Workshop
