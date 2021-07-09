@@ -1,9 +1,9 @@
 # Deep-Graph-Learning-Systems
 
 
+This is a reading list for deep graph learning system.
 
-
-
+------
 
 ## Paper
 - [Hardware Design](./papers/hardware_design.md)
