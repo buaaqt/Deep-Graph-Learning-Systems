@@ -1,1 +1,1 @@
-# Optimization Algorithm for Accelerate Graph Neural Networks
+# Optimization Algorithm For Accelerate Graph Neural Networks
