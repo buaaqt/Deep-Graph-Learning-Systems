@@ -5,9 +5,9 @@ Deep graph learning system related papers in recent years.
 [Sort by time](#System-Design-For-Deep-Graph-Learning)\
 [Sort by topic](./sort_topic_system.md)
 - [Papers in 2021](#Papers-in-2021)
-- [Papers in 2021](#Papers-in-2020)
-- [Papers in 2021](#Papers-in-2019)
-- [Papers in 2021](#Papers-in-2018)
+- [Papers in 2020](#Papers-in-2020)
+- [Papers in 2019](#Papers-in-2019)
+- [Papers in 2018](#Papers-in-2018)
 
 
 
