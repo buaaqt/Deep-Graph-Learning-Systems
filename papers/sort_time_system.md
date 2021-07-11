@@ -1,6 +1,6 @@
 # System Design For Deep Graph Learning
 
-Deep graph learning system related Papers in recent three years.
+Deep graph learning system related papers in recent three years.
 
 [Sort by time](#System-Design-For-Deep-Graph-Learning)\
 [Sort by topic](./sort_topic_system.md)
