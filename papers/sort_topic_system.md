@@ -2,7 +2,7 @@
 
 [Sort by topic](#System Design For Deep Graph Learning)\
 [Sort by time](./sort_time_system.md)
-- [1 Deep Graph Learning Framework](#1 Deep Graph Learning Framework)
+- [1 Deep Graph Learning Framework](#1%20Deep%20Graph%20Learning%20Framework)
   * [1.1 Static Graph Library](#1.1 Static Graph Library)
   * [1.2 Dynamic Graph Library](#1.2 Dynamic Graph Library)
     
