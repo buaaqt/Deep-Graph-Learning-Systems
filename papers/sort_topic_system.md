@@ -21,7 +21,7 @@
 
 
 ## 1 Deep Graph Learning Framework
-<!-- ## 1 Deep Graph Learning Framework -->
+
 
 ---
 
@@ -40,9 +40,7 @@
 > - Benedek Rozemberczki, Paul Scherer, Yixuan He, George Panagopoulos, Alexander Riedel, Maria Astefanoaei, Oliver Kiss, Ferenc Beres, Guzmán López, Nicolas Collignon, Rik Sarkar.
 > - Arxiv 2021
 
-## [2 Deep Graph Learning System Design](#content)
-
-<!-- ## Deep Graph Learning System Design -->
+## 2 Deep Graph Learning System Design
 
 ---
 
