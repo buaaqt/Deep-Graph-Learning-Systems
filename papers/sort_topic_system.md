@@ -6,7 +6,7 @@
   * [1.1 Static Graph Library](#1.1%20Static%20Graph%20Library)
   * [1.2 Dynamic Graph Library](#1.2%20Dynamic%20Graph%20Library)
     
-- [2 Deep Graph Learning System Design](#2%20Deep%20Graph%20Learning%20System%20Design)
+- [2 Deep Graph Learning System Design](#Deep%20Graph%20Learning%20System%20Design)
   * [2.1 GPU System Design](#2.1%20GPU%20System%20Design)
   * [2.2 Distributed Sytem Design](#2.2%20Distributed%20Sytem%20Design)
   
@@ -42,7 +42,7 @@
 
 
 
-## 2 Deep Graph Learning System Design
+## Deep Graph Learning System Design
 
 ---
 
