@@ -36,6 +36,9 @@
 > - *Matthias Fey, Jan Eric Lenssen.*
 > - **ICLR Workshop 2019**
 
+#### [3] [Relational inductive biases, deep learning, and graph networks](https://arxiv.org/abs/1806.01261)
+> - *Peter W. Battaglia1, Jessica B. Hamrick1, Victor Bapst1, et al.*
+> - **arXiv 2018**
 
 
 
@@ -43,7 +46,7 @@
 
 #### [1] [PyTorch Geometric Temporal: Spatiotemporal Signal Processing with Neural Machine Learning Models](https://arxiv.org/abs/2104.07788)
 > - *Benedek Rozemberczki, Paul Scherer, Yixuan He, George Panagopoulos, Alexander Riedel, Maria Astefanoaei, Oliver Kiss, Ferenc Beres, Guzmán López, Nicolas Collignon, Rik Sarkar.*
-> - **Arxiv 2021**
+> - **arXiv 2021**
 
 
 
