@@ -3,8 +3,8 @@
 [Sort by topic](#System-Design-For-Deep-Graph-Learning)\
 [Sort by time](./sort_time_system.md)
 - [1 Deep Graph Learning Framework](#1-Deep-Graph-Learning-Framework)
-  * [1.1 Static Graph Library](#1.1-Static-Graph-Library)
-  * [1.2 Dynamic Graph Library](##1.2-Dynamic-Graph-Library)
+  * [1-1 Static Graph Library](#1-1-Static-Graph-Library)
+  * [1-2 Dynamic Graph Library](##1.2-Dynamic-Graph-Library)
     
 - [2 Deep Graph Learning System Design](#2-Deep-Graph-Learning-System-Design)
   * [2.1 GPU System Design](#2.1-GPU-System-Design)
@@ -25,7 +25,7 @@
 
 ---
 
-### 1.1 Static Graph Library
+### 1-1 Static Graph Library
 
 #### [1] [Deep Graph Library: Towards Efficient and Scalable Deep Learning on Graphs](https://arxiv.org/abs/1909.01315v2)
 > - Minjie Wang, Lingfan Yu, Da Zheng, Quan Gan, Yu Gai, Zihao Ye, Mufei Li, Jinjing Zhou, Qi Huang, Chao Ma, Ziyue Huang, Qipeng Guo, Hao Zhang, Haibin Lin, Junbo Zhao, Jinyang Li, Alexander Smola, Zheng Zhang.
