@@ -8,7 +8,7 @@
     
 - [2 Deep Graph Learning System Design](#2-Deep-Graph-Learning-System-Design)
   * [2-1 GPU System Design](#2-1-GPU-System-Design)
-  * [2-2 Distributed Sytem Design](#2-2-Distributed-Sytem-Design)
+  * [2-2 Distributed System Design](#2-2-Distributed-System-Design)
   
 - [3 Graph System Optimization](#3-Graph-System-Optimization)
   * [3-1 Training Algorithm](#3-1-Training-Algorithm)
@@ -51,7 +51,7 @@
 > - **USENIX ATC 2019**
 
 
-### 2-2 Distributed Sytem Design
+### 2-2 Distributed System Design
 
 #### [1] [Improving the Accuracy, Scalability, and Performance of  Graph Neural Networks with Roc](https://www-cs.stanford.edu/people/matei/papers/2020/mlsys_roc.pdf)
 > - *Zhihao Jia, Sina Lin, Mingyu Gao, Matei Zaharia, and Alex Aiken.*
