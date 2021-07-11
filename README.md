@@ -8,7 +8,7 @@ This is a reading list for deep graph learning system.
 ## Paper
 - [Hardware Design](./papers/hardware_design.md)
 - [Optimization Algorithm](./papers/optimization_algorithm.md)
-- [System Design](./papers/system_design.md)
+- [System Design](./papers/system design.md)
 
 ## Conference
 - [Conference](conference.md#Conference)
