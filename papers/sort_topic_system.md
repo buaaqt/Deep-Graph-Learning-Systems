@@ -4,7 +4,7 @@
 [Sort by time](./sort_time_system.md)
 - [1 Deep Graph Learning Framework](#1-Deep-Graph-Learning-Framework)
   * [1.1 Static Graph Library](#1.1-Static-Graph-Library)
-  * [1.2 Dynamic Graph Library](#1\.2-Dynamic-Graph-Library)
+  * [1.2 Dynamic Graph Library](##1.2-Dynamic-Graph-Library)
     
 - [2 Deep Graph Learning System Design](#2-Deep-Graph-Learning-System-Design)
   * [2.1 GPU System Design](#2.1-GPU-System-Design)
