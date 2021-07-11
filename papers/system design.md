@@ -2,20 +2,29 @@
 # System Design For Deep Graph Learning
 
 
-[Sort by topic](#System Design For Deep Graph Learning)\
-[Sort by time](./sort_time_system.md)
-- [1  Deep Graph Learning Framework](#1 Deep Graph Learning Framework)
-  * [1.1 Static Graph Library](#1.1 Static Graph Library)
-  * [1.2 Dynamic Graph Library](#1.2 Dynamic Graph Library)
+[comment]: <> ([Sort by topic]&#40;#System Design For Deep Graph Learning&#41;\)
+
+[comment]: <> ([Sort by time]&#40;./sort_time_system.md&#41;)
+
+[comment]: <> (- [1  Deep Graph Learning Framework]&#40;#1 Deep Graph Learning Framework&#41;)
+
+[comment]: <> (  * [1.1 Static Graph Library]&#40;#1.1 Static Graph Library&#41;)
+
+[comment]: <> (  * [1.2 Dynamic Graph Library]&#40;#1.2 Dynamic Graph Library&#41;)
     
-- [2  Deep Graph Learning System Design](#2 Deep Graph Learning System Design)
-  * [2.1 GPU System Design](#2.1 GPU System Design)
-  * [2.2 Distributed Sytem Design](#2.2 Distributed Sytem Design)
+[comment]: <> (- [2  Deep Graph Learning System Design]&#40;#2 Deep Graph Learning System Design&#41;)
+
+[comment]: <> (  * [2.1 GPU System Design]&#40;#2.1 GPU System Design&#41;)
+
+[comment]: <> (  * [2.2 Distributed Sytem Design]&#40;#2.2 Distributed Sytem Design&#41;)
   
-- [3  Graph System Optimization](#3 Graph System Optimization)
-  * [3.1 Training Algorithm](#3.1 Training Algorithm)
-  * [3.2 Memory Access Optimization](#3.2 Memory Access Optimization)
-  * [3.3 Kernel Optimization](#3.3 Kernel Optimization)
+[comment]: <> (- [3  Graph System Optimization]&#40;#3 Graph System Optimization&#41;)
+
+[comment]: <> (  * [3.1 Training Algorithm]&#40;#3.1 Training Algorithm&#41;)
+
+[comment]: <> (  * [3.2 Memory Access Optimization]&#40;#3.2 Memory Access Optimization&#41;)
+
+[comment]: <> (  * [3.3 Kernel Optimization]&#40;#3.3 Kernel Optimization&#41;)
     
 
 ## 1 Deep Graph Learning Framework
