@@ -19,7 +19,7 @@ This is a reading list for deep graph learning system.
 ## Tools
 
 - [Graph Data Processing](./tools/graph_data_processing.md)
-- [Graph Computing engine](./tools/graph_computing_engine.md)
+- [Graph Computing Engine](./tools/graph_computing_engine.md)
 - [Auxiliary Analyzing Tools](./tools/analyzing_tool.md)
 
 ## General Resources
