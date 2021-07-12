@@ -1,4 +1,4 @@
-# Blog About Deep Learning on Graph
+# Blogs About Deep Learning on Graph
 
 
 ### [1] [Thomas Kipf Blog](https://tkipf.github.io/graph-convolutional-networks/)
