@@ -8,9 +8,17 @@
 > - *Sergi Abadal, Akshay Jain, Robert Guirado, Jorge López-Alonso, Eduard Alarcón.*
 > - **arXiv 2020**
 
-#### [2] [A Taxonomy for Classification and Comparison of Dataflows for GNN Accelerators](https://arxiv.org/abs/2103.07977)
+#### [2] [Deep Graph Learning: Foundations, Advances and Applications](https://dl.acm.org/doi/10.1145/3394486.3406474)
+> - *Yu Rong, Tingyang Xu, Junzhou Huang, Wenbing Huang, Hong Cheng, Yao Ma, Yiqi Wang, Tyler Derr, Lingfei Wu, Tengfei Ma.*
+> - **KDD 2020**
+
+#### [3] [A Taxonomy for Classification and Comparison of Dataflows for GNN Accelerators](https://arxiv.org/abs/2103.07977)
 > - *Raveesh Garg, Eric Qin, Francisco Muñoz Martínez, Robert Guirado, Akshay Jain, Sergi Abadal, José L. Abellán, Manuel E. Acacio, Eduard Alarcón, Sivasankaran Rajamanickam, Tushar Krishna.*
 > - **arXiv 2021**
+
+
+
+
 
 ---
 ## Performance Analysis
