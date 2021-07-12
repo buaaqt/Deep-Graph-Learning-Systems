@@ -1,4 +1,4 @@
-# Course About Deep Learning on Graph
+# Courses About Deep Learning on Graph
 
 
 ### [1] [CS224W: Machine Learning with Graphs](http://web.stanford.edu/class/cs224w/)

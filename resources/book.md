@@ -1,4 +1,4 @@
-# Book About Deep Learning on Graph
+# Books About Deep Learning on Graph
 
 
 ### [1] [Graph Representation Learning](https://www.morganclaypool.com/doi/abs/10.2200/S01045ED1V01Y202009AIM046)
