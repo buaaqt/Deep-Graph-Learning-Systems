@@ -1,4 +1,4 @@
-# Survey & Performance Analysis for GNN Computing
+# Survey & Performance Analysis About Deep Learning On Graph
 
 
 
@@ -13,7 +13,7 @@
 > - **arXiv 2021**
 
 ---
-##Performance Analysis
+## Performance Analysis
 
 #### [1] [Characterizing and Understanding GCNs on GPU](https://arxiv.org/abs/2010.00130)
 > - *Mingyu Yan, Zhaodong Chen, Lei Deng, Xiaochun Ye, Zhimin Zhang, Dongrui Fan, Yuan Xie.*
