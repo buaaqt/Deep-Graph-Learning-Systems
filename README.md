@@ -2,7 +2,7 @@
 
 
 This is a reading list for deep graph learning system.
-
+Including but not limited to system design and optimization in the direction of graph deep learning. Covers related papers, conferences, tools, books, blogs, courses and other resources. We have a [team](#Maintainer) responsible for maintaining this list, and everyone is welcome to contribute together.
 ------
 
 ## Paper
